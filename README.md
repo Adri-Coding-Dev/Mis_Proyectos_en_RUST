@@ -64,7 +64,6 @@ Asegúrate de tener Rust instalado. Si no, sigue las instrucciones en [rustup.rs
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rustlings (ejercicios interactivos)](https://github.com/rust-lang/rustlings)
 - [Documentación estándar de Rust](https://doc.rust-lang.org/std/)
-- Otros: (añade los tuyos propios)
 
 ## ✍️ Cómo documento cada proyecto
 
@@ -76,7 +75,7 @@ Cada carpeta de proyecto incluye un `README.md` con:
 
 ## 🧠 Reflexiones y notas personales
 
-*(Aquí puedes escribir una pequeña sección sobre qué tal te está yendo, qué te está costando, y qué es lo que más te gusta de Rust)*
+*[8/5/2026] Empeze con la aventura de aprender RUST porque me recomendaron aprenderlo, sobre todo por que es un lenguaje multiparadigma, con limpieza automatica de cache y un lenguaje de bajo nivel... Podria ser el lenguaje ideal para cambiar de aires con Java.*
 
 ---
 
